@@ -1,4 +1,4 @@
-package com.J1ggy; 
+package com.StirlingBodyshop; 
 
 public class Program { public static void main(String[] args) 
 
